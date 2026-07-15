@@ -1,0 +1,42 @@
+======================================================================
+E-COMMERCE ORDERS DATASET PROJECT REPORT
+======================================================================
+
+Total Rows : 1200
+Total Columns : 24
+
+Missing Values Remaining : 0
+Duplicate Rows : 0
+
+Numerical Columns : 13
+Categorical Columns : 11
+
+Engineered Features:
+- OrderYear
+- OrderMonth
+- OrderDay
+- DayOfWeek
+- IsCouponUsed
+- AverageItemPrice
+- CartValue
+- BulkOrder
+- HighValueOrder
+- DiscountApplied
+
+Modules Completed
+-------------------------
+Module 01 : Data Loading
+Module 02 : Exploratory Data Analysis
+Module 03 : Missing Value Handling
+Module 04 : Outlier Detection & Treatment
+Module 05 : Feature Engineering
+Module 06 : Final Dataset & Report
+
+Techniques Used
+-------------------------
+- Median Imputation
+- Mode Imputation
+- IQR Outlier Detection
+- IQR Outlier Capping
+- Z-Score Comparison
+- Feature Engineering
